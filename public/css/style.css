@@ -1,0 +1,12 @@
+*{
+    font-family: sans-serif;
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+#img{
+    display: none;
+    height: 300px;
+    width: 100px;
+}
